@@ -1,0 +1,17 @@
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\TCP_IP_Test.exe.config
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\TCP_IP_Test.exe
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\TCP_IP_Test.pdb
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\Cognex.DataMan.CogNamer.PC.dll
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\Cognex.DataMan.SDK.Discovery.PC.dll
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\Cognex.DataMan.SDK.PC.dll
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\Cognex.DataMan.SDK.Utils.PC.dll
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\Cognex.DataMan.SDK.PC.xml
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\bin\x64\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\x64\Debug\TCP_IP_Test.csproj.AssemblyReference.cache
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\x64\Debug\TCP_IP_Test.Form1.resources
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\x64\Debug\TCP_IP_Test.Properties.Resources.resources
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\x64\Debug\TCP_IP_Test.csproj.GenerateResource.cache
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\x64\Debug\TCP_IP_Test.csproj.CoreCompileInputs.cache
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\x64\Debug\TCP_IP_Test.exe
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\x64\Debug\TCP_IP_Test.pdb

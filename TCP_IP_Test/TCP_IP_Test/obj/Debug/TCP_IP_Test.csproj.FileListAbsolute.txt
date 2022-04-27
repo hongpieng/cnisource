@@ -1,0 +1,5 @@
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\Debug\TCP_IP_Test.csproj.AssemblyReference.cache
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\Debug\TCP_IP_Test.Form1.resources
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\Debug\TCP_IP_Test.Properties.Resources.resources
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\Debug\TCP_IP_Test.csproj.GenerateResource.cache
+D:\Project\Test\TCP_IP_Test\TCP_IP_Test\obj\Debug\TCP_IP_Test.csproj.CoreCompileInputs.cache
